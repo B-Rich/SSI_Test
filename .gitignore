@@ -1,0 +1,8 @@
+# git ignore file
+obj
+bin
+*.csproj.user
+*.suo
+*.cache
+*~
+*.swp
